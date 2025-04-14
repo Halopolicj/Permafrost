@@ -1,8 +1,8 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Project Permafrost(heavy wip)"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "Permafrost-mod"
 
 #your name
 author: "You"
@@ -11,7 +11,7 @@ author: "You"
 main: "example.PermafrostMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "."
 
 #the mod version
 version: 0.0.1
